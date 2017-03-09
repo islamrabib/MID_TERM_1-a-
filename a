@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    string coder;
+    cout<<"What is your Name?";
+    cout<<endl;
+    cout<<"Please enter your Name:";
+    cin>>coder;
+    cout<<endl;
+    cout<<"Hello there ";
+    cout<<coder;
+    cout<<"!";
+    cout<<endl;
+    cout<<"\n";
+    return 0;
+}
